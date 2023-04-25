@@ -1,0 +1,23 @@
+{
+  "name": "programming-for-web-applications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@randomfire10/utils": "^1.0.3",
+    "axios": "^1.3.6",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22"
+  }
+}
